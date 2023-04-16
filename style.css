@@ -1,0 +1,31 @@
+.note{
+    color: black;
+}
+.realtime{
+    font-size:20px ;
+    margin-top: 0;
+    width: 100%;
+    box-shadow: 10px 10px 40px rgb(174, 181, 167);
+}
+body{
+    background: linear-gradient(to right, #f7ff00, #db36a4);
+}
+
+.footer{
+    background-color: aquamarine;
+    color: black;
+    font-size: 22px;
+    text-shadow: 3px 3px whitesmoke;
+    padding: 5px;
+    position: fixed;
+    width: 100%;
+    bottom: 5;
+}
+
+canvas{
+    border: 5px solid ;
+    border-radius: 15px;
+    margin-top: 50px;
+    box-shadow: 10px 10px 40px rgb(183, 214, 195);
+    
+}
